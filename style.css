@@ -1,0 +1,161 @@
+body{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+}
+.cont1{
+    
+  width:1200px ;
+  height: 600px;
+  background-repeat: no-repeat;
+}
+#home{
+    color:#c5520f; ;
+}
+
+
+#box{
+    display: flex;
+    list-style: none;
+    gap: 80px;
+}
+#button1{
+    width: 20%;
+    border-radius: 20%;
+    background-color: #ffe5d6;
+}
+.box1{
+background-image: url(./livingroom.jpg);
+height: 500px;
+background-repeat: no-repeat;
+background-size: cover;
+width: 110%;
+overflow: hidden;
+background-position: center;
+padding-bottom: 12%;
+
+}
+
+.box2{
+
+    position: relative;
+    padding-left: 25%;
+    padding-top: 10%;
+
+}
+#button2{
+    background-color: #ffe5d6;
+    width: 10%;
+    border-radius: 20%;
+}
+#explore{
+    text-align: center;
+}
+.cont2{
+    display: flex;
+    gap: 56px;
+    margin: 64px auto;
+    overflow: hidden;
+    margin-left: 5%;
+    height: 50%;
+ }
+#button{
+    width: 15%;
+    height: 5%;
+    /* margin-right: 20%; */
+    background-color: #ffe5d6;
+    text-align: center;
+}
+
+#image1{
+    width: 350px;
+    height: 450px;
+    
+}
+#image2{
+    width: 350px;
+    height: 450px;
+}
+#image3{
+    width: 350px;
+    height: 450px;
+}
+.cont3{
+    display: flex;
+    gap: 30px;
+    background-color: #002d3d;
+    position: relative;
+    padding: 5%;
+    width: 100%;
+}
+.style{
+    
+    
+}
+
+
+#table{
+    position: absolute;
+    bottom: 10px;
+    
+
+    
+}
+#wallshelf{
+    position: absolute;
+    bottom: 5px;
+    margin-right: 15%;
+    
+    
+
+}
+#chair{
+    position: absolute;
+    bottom: 5px;
+    right: 15px;
+    
+}
+.cont4{
+    background-color: #ffe5d6;
+    width: 100%;
+    height: 50%;
+
+
+}
+.cont5{
+margin-left: 10%;
+border-radius: 100%;
+width: 50%;
+
+    
+}
+#monstera{
+    float: right;
+    height: 100%;
+    width: 20%;
+
+}
+.cont6{
+    text-align: center;
+    width: 40%;
+    height: 40%;
+    padding-left: 22%;
+}
+.cont7{
+    display: flex;
+    gap: 100px;
+    background-color: #002d3d;
+    
+}
+.section{
+    width: 100%;
+    margin-left: 6%;
+}
+
+
+
+
+
+
+   
+   
