@@ -2,27 +2,33 @@ body{
     background-color: white;
     margin: 0%;
     padding: 0%;
+    
 }
 .cont1{
     
   width:1200px ;
   height: 600px;
   background-repeat: no-repeat;
+  
 }
 #home{
     color:#c5520f; ;
 }
 
 
+
 #box{
     display: flex;
     list-style: none;
-    gap: 80px;
+    gap: 60px;
+    border-bottom: solid;
+    margin-left: 5%;
+    margin-right: 10%;
 }
 #button1{
     width: 20%;
     border-radius: 20%;
-    background-color: #ffe5d6;
+    background-color: #ffac7d;
 }
 .box1{
 background-image: url(./livingroom.jpg);
@@ -44,12 +50,15 @@ padding-bottom: 12%;
 
 }
 #button2{
-    background-color: #ffe5d6;
+    background-color: #ffac7d;
     width: 10%;
     border-radius: 20%;
 }
-#explore{
+.explorer{
     text-align: center;
+    
+}#explore{
+    background-color: #ffac7d;
 }
 .cont2{
     display: flex;
@@ -59,13 +68,8 @@ padding-bottom: 12%;
     margin-left: 5%;
     height: 50%;
  }
-#button{
-    width: 15%;
-    height: 5%;
-    /* margin-right: 20%; */
-    background-color: #ffe5d6;
-    text-align: center;
-}
+
+
 
 #image1{
     width: 350px;
@@ -81,58 +85,62 @@ padding-bottom: 12%;
     height: 450px;
 }
 .cont3{
-    display: flex;
     gap: 30px;
     background-color: #002d3d;
     position: relative;
     padding: 5%;
     width: 100%;
-}
-.style{
     
+}
+.pop{
+    
+    width: 100%;
+}
+.designs{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+.explorer{
+    width: 100%;
+    text-align: centre;
     
 }
 
 
-#table{
-    position: absolute;
-    bottom: 10px;
-    
 
-    
+#oak{
+width: 200px;
+margin: 20px;
 }
-#wallshelf{
-    position: absolute;
-    bottom: 5px;
-    margin-right: 15%;
-    
-    
-
+#wall{
+    width: 200px;
+    margin: 20px;
 }
-#chair{
-    position: absolute;
-    bottom: 5px;
-    right: 15px;
-    
+#mustard{
+    width: 200px;
+    margin: 20px;
 }
 .cont4{
     background-color: #ffe5d6;
     width: 100%;
     height: 50%;
+    
 
 
 }
 .cont5{
 margin-left: 10%;
-border-radius: 100%;
-width: 50%;
+border-radius:50%;
+width: 100%;
 
     
 }
 #monstera{
     float: right;
-    height: 100%;
-    width: 20%;
+    /* height: 80%; */
+    width: 18%;
 
 }
 .cont6{
@@ -151,6 +159,7 @@ width: 50%;
     width: 100%;
     margin-left: 6%;
 }
+
 
 
 
